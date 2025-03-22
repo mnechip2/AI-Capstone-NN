@@ -1,0 +1,4 @@
+[core]
+    remote = ai capstone nn
+['remote "ai capstone nn"']
+    url = https://github.com/mnechip2/AI-Capstone-NN
