@@ -176,3 +176,6 @@ cython_debug/
 # Data Files
 csv_data/
 imputed_data/INS-W_1/FeatureData/sleep_imputed.xlsx
+figures/SocialFit_PRE_by_BFI10_extroversion_PRE.png
+figures/SocialFit_PRE_by_BFI10_neuroticism_PRE.png
+figures/SocialFit_PRE_by_BFI10_extroversion_PRE.png
